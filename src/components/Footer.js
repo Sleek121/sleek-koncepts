@@ -6,7 +6,7 @@ const Footer = () => {
     <div className='max-w-[1240px] mx-auto py-16 px-4 grid lg:grid-cols-2 gap-8 text-gray-300'>
         <div>
         <h1 className='w-full text-2xl font-bold text-[#ff5733]  mt-5'>SLEEK KONCEPTS.</h1>
-        <p className='py-4'>Sleek Koncepts is a full-service digital agency based in the Nigerian city of Lagos. We are a team of skilled designers, developers, marketers, and IT specialists who work together to produce remarkable designs and strategies that are suited to the demands and objectives of your organization.</p>
+        <p className='py-4'>12, Philip Jaiyeola Street,<br />Greenville Estate, off Badore road,<br />Ajah, Lagos state.</p>
         <div className='flex justify-between md:w-[75%] my-6'>
             <FaFacebookSquare size={30} className='cursor-pointer hover:text-[#fa4f28] hover:scale-110 duration-300'/>
             <FaInstagram size={30}  className='cursor-pointer hover:text-[#fa4f28] hover:scale-110 duration-300'/>
